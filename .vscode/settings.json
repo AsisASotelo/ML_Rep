@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/asisasotelo/opt/anaconda3/envs/pyml/bin/python"
+    "python.pythonPath": "/Users/asisasotelo/opt/anaconda3/envs/pyml/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
