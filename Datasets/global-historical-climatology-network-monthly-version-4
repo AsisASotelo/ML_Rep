@@ -1,0 +1,597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<title>Global Historical Climatology Network Monthly - Version 4 | National Centers for Environmental Information (NCEI) formerly known as National Climatic Data Center (NCDC)</title>
+<!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="/sites/all/themes/custom/ncdc/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/custom/ncdc/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/custom/ncdc/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/custom/ncdc/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/custom/ncdc/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" href="/sites/all/themes/custom/ncdc/apple-touch-icon.png" />
+<meta name="msapplication-tooltip" content="The world's largest active archive of weather and climate data producing and supplying data and publications for the world." />
+<meta name="msapplication-task" content="name=NCDC;action-uri=https://www.ncdc.noaa.gov/;icon-uri=sites/all/themes/ncdc/favicon.ico" />
+<meta name="msapplication-TileColor" content="#007EC6" />
+<meta name="msapplication-TileImage" content="/sites/all/themes/custom/ncdc/apple-touch-icon-144.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.ncdc.noaa.gov/sites/all/themes/custom/ncdc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The Global Historical Climatology Network–monthly (GHCNm) dataset is a set of monthly climate summaries from thousands of weather stations around the world." />
+<meta name="abstract" content="The Global Historical Climatology Network–monthly (GHCNm) dataset is a set of monthly climate summaries from thousands of weather stations around the world." />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="National Climatic Data Center" />
+<meta name="rights" content="© 2021 National Climatic Data Center" />
+<link rel="canonical" href="https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-monthly-version-4" />
+<link rel="shortlink" href="https://www.ncdc.noaa.gov/node/1738" />
+<meta name="verify-v1" content="DjxBYfR0oM2KSNJl6i2BbxfTcXOGUnbglkT0QQj5KtI=" />
+<!--[if IE]><![endif]--> 
+<link type="text/css" rel="stylesheet" href="https://www.ncdc.noaa.gov/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ncdc.noaa.gov/sites/default/files/css/css__o-4rXkrLQ-uLXRPBpW3d0-aEd-Cc-rFgjnNuY1acR8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ncdc.noaa.gov/sites/default/files/css/css_I1tb7QsZi4rMjeJlq4VLcfD2nit_zgd1A9Q5ukIsmF4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ncdc.noaa.gov/sites/default/files/css/css_ty7Cc08VDzFXsn2jYtXUXP-vijMoW9AnQOBKGI5AyVg.css" media="all" />
+
+<!--[if gte IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.ncdc.noaa.gov/sites/all/themes/custom/ncdc/css/ie.css?qmlw1e" media="all" />
+<![endif]-->
+<script type="text/javascript" src="https://www.ncdc.noaa.gov/sites/default/files/js/js_zS-CmNFGyegtLYJmqFRpxQvvQrfPIFrOMq_3T3C8sZE.js"></script>
+<script type="text/javascript" src="https://www.ncdc.noaa.gov/sites/default/files/js/js_Tik8PIaz_eQ5I4FMzmjkWoPEs9jKBgTSauo1jgsNa6g.js"></script>
+<script type="text/javascript" src="https://www.ncdc.noaa.gov/sites/default/files/js/js_skqAWJ8kG9yF-J2hLvYs_BgEGMchdiPzfTyCYg-TFqc.js"></script>
+<script type="text/javascript" src="https://www.ncdc.noaa.gov/sites/default/files/js/js_O0rS8sBLY0CdAHKcQgEMGflZulMlsa3Px35-7T55hFU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ncdc","theme_token":"UpoBT5BcaXiV_R6Hu_j-XC2kpUIPbpf3aGPv0I2hkPY","js":{"0":1,"sites\/all\/modules\/custom\/ncdc_google_analytics\/ncdc_google_analytics_events.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/themes\/custom\/ncdc\/js\/site.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/footnotes\/footnotes.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/features\/climate_data_records\/css\/style.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/reset.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/ncdc.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/menu.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/admin.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/frontpage.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/content.css":1,"sites\/all\/themes\/custom\/ncdc\/css\/ie.css":1}},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"whitelist","list":{"main-menu":"main-menu","menu-menu-gosic":"menu-menu-gosic","menu-menu-wdcmet":"menu-menu-wdcmet","management":0,"menu-additional-links":0,"menu-climate-data-records":0,"menu-footer-menu-2":0,"menu-footer-menu-3":0,"menu-footer-support":0,"menu-menu-bams-state-of-the-clim":0,"menu-menu-isd":0,"menu-menu-isscp":0,"menu-menu-nomads":0,"menu-menu-oisst":0,"menu-paleo-perspective-global-wa":0,"menu-rcsd-menu":0,"navigation":0,"shortcut-set-1":0,"shortcut-set-2":0,"user-menu":0}}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"^(https?:\\\/\\\/)?[\\w\\.]+\\.gov","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"You are exiting an NCEI website.\r\n\r\nThank you for visiting our site. We have provided a link because it has information that may interest you. NCEI does not endorse the views expressed, the information presented, or any commercial products that may be advertised or available on that site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"}});
+//--><!]]>
+</script>
+</head>
+
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1738 node-type-page" >
+
+<div id="background">
+		<div id="page-wrapper" class="clearfix">
+	<div id="page">
+
+		<div id="header" class="clearfix">
+			
+<div id="noaa-header">
+	<div class="inset">
+		<a href="http://www.noaa.gov/" class="noaalink"><img src="/sites/all/themes/custom/ncdc/images/logos/logo_noaa.png" alt="Click here to visit NOAA.gov" title="Click here to visit NOAA.gov" /></a>
+		<div class="title"><a href="/" title="National Climatic Data Center">National Climatic Data Center<span></span></a></div>
+		<div id="skip-link">
+			<div><a href="#main-content" class="element-invisible element-focusable">Skip to main content</a></div>
+			<div><a href="#site-search" class="element-invisible element-focusable">Skip to site search</a></div>
+		</div>
+		<a href="http://www.commerce.gov/" id="headDOC" title="Click to visit the U.S. Department of Commerce Website"></a>
+		<div class="formerly">Formerly the National Climatic Data Center (NCDC)&hellip; <a href="//www.ncei.noaa.gov" title="Link to the NCEI site">more about NCEI &raquo;</a></div></div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+	<div class="floatLeft">
+					<div id="navigation">
+				<ul id="main-menu" class="links inline clearfix"><li class="menu-221 first"><a href="/" title="NCEI Home">Home</a></li>
+<li class="menu-1704"><a href="/climate-information" title="Climate Information">Climate Information</a></li>
+<li class="menu-1705 active-trail"><a href="/data-access" title="Data Access" class="active-trail">Data Access</a></li>
+<li class="menu-632"><a href="/customer-support" title="Customer Support">Customer Support</a></li>
+<li class="menu-1916"><a href="/contact" title="Contact">Contact</a></li>
+<li class="menu-493 last"><a href="/about" title="About">About</a></li>
+</ul>			</div>
+			</div>
+
+	<div id="search">
+		<form name="sitesearch" method="get" action="https://search.usa.gov/search">
+			<a id="site-search"></a>
+			<input type="hidden" name="affiliate" value="NCDC" />
+			<label for="siteSearchInput">Search Field: </label>
+			<input type="text" name="query" class="searchtext" id="siteSearchInput" value="Search" maxlength="50" />
+			<input type="image" src="/sites/all/themes/custom/ncdc/images/icons/search_black_24x24.png" class="submitbutton" value="Search" id="Search" alt="Search articles and stories" title="Search Icon" />
+		</form>
+	</div>
+</div>
+		</div>
+				<h2 class="element-invisible">You are here</h2><div id="breadcrumb"><a href="/">Home</a> > <a href="/data-access" title="Data Access">Data Access</a> > <a href="/data-access/land-based-station-data" class="active-trail">Land-Based Station</a> > <a href="/data-access/land-based-station-data/land-based-datasets" class="active-trail">Datasets</a> > <a href="/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn" class="active-trail">GHCN</a> > Global Historical Climatology Network Monthly - Version 4</div>		
+		
+		<div id="main-wrapper">
+			<div id="main" class="clearfix">
+
+				<div id="content" class="clearfix">
+
+					<a id="main-content"></a>
+
+										
+
+					<div class="section">
+
+						
+						<div class="col-2-right">
+
+	                                                <a id="main-content"></a>
+
+        	                                        
+							
+															<h1 class="title search-results-header" id="page-title">Global Historical Climatology Network Monthly - Version 4 </h1>
+							
+							
+							<div class="tabs"></div>
+							
+							
+								<div class="region region-content">
+		<div id="block-system-main" class="block block-system">
+
+			
+	<div class="content">
+		<div id="node-1738" class="node node-page clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><table align="right" border="1" style="width:250px">
+<thead>
+<tr>
+<th>Download</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www1.ncdc.noaa.gov/pub/data/ghcn/v4" rel="nofollow">ASCII Text Files</a><br />
+			<a href="https://www.ncei.noaa.gov/data/global-historical-climatology-network-monthly/v4/" rel="nofollow">Version 4 Archive</a><br />
+			<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/products/" rel="nofollow">Additional Diagnostics</a><br />
+			<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/documentation/" rel="nofollow">Documentation</a></td>
+</tr>
+</tbody>
+</table>
+<p>The Global Historical Climatology Network&ndash;monthly (GHCNm) dataset is a set of monthly climate summaries from thousands of weather stations around the world. The monthly data have periods of record that vary by station with the earliest observations dating to the 18<sup>th</sup> century. Some station records are purely historic and are no longer updated whereas many others are still in operation and provide short time delay updates that are useful for climate monitoring.</p>
+<p>The first release of GHCNm &amp; dates to the the early 1990s (Vose et al. 1992). Subsequent releases include version 2 in 1997(Peterson and Vose, 1997), version 3 in 2011 (Lawrimore et al. 2011) and, most recently, version 4 (Menne et al. 2018). For the moment, GHCNm v4 consists of mean monthly temperature data only. Mean monthly maximum and minimum temperatures as well as monthly total precipitation will be included at a later date.</p>
+<p>Relative to previous versions, v4 provides an expanded set of station temperature records as well as more comprehensive uncertainties for the calculation of station and regional temperature trends. The increase in station data comes primarily from the temperature observations available in the Global Historical Climatology Network&ndash;daily dataset (GHCNd; Menne et al. 2012), which have been combined with the original monthly sources used in previous versions of GHCNm. Additional station data collected under the auspices of the International Surface Temperature Initiative are also used (ISTI; Rennie et al. 2013) and the data merging process was conducted within the ISTI project. Combining these various sources brings the total number of monthly temperature stations in v4 to approximately 26,000 compared to 7200 in v2 and v3.</p>
+<div class="expandableContent">
+<p>The most recent update for <a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/" rel="nofollow">GHCNm v4 temperature data</a> are provided using the naming convention &quot;latest&quot; for each form of the data (unhomogenized or homogenized--see below). These files will untar into a directory that contains a version designation of the form &quot;ghcnm.x.y.z.yyyymmdd&quot; where:</p>
+<ul>
+<li>x = version number associated with major methodological changes to quality control, homogenization, data merging or fundamental changes to the sources of the data. A change in &#39;x&#39; is accompanied by a peer reviewed manuscript</li>
+<li>y = version number associated with subsequent and substantial modifications to a major version release, including a new set of stations or the addition of quality control checks. A change in &#39;y&#39; is accompanied by a technical note</li>
+<li>z = version number associated with minor revisions to station data and/or processing software. A change in &#39;z&#39; is noted in the &quot;status and errata&quot; document</li>
+<li>yyyy = year in which the update to the dataset occurred</li>
+<li>mm = month in which the update to the dataset occurred</li>
+<li>dd = day in which the update to the dataset occurred</li>
+</ul>
+<p>The data files are alsonamed according to the latest version number and time-stamp to indicate when the update was run. For example, the directory and filenames for the version 4 data produced on October 4, 2018 contains the string &quot;v4.0.0.20181004&quot; to indicate that the data are part of the GHCNm version 4.0.0 (x.y.z) code base and set of stations and the files were updated with the latest data available as of October 4, 2018 (20181004).</p>
+<p>Information on version 4 quality control, homogeneity corrections, and other aspects of the dataset are available in the&nbsp;<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/documentation/" rel="nofollow">documents library</a>.</p>
+</div>
+<!--/expandableContent--><p>Data and inventory files<br />
+<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/readme.txt" rel="nofollow">Directions on Uncompressing and Extracing Files</a> (includes description of inventory file and format of data files [measurement, quality, and source flags)]</p>
+<ul>
+<li><strong>Station-Level Information</strong><br />
+	<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/products/StationPlots/" rel="nofollow">Detailed station-level information on the source of the data, monthly mean temperatures and trends for unadjusted and adjusted data are provided in graphical form</a>. An <a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/products/StationPlots/readme.txt" rel="nofollow">explanation of these figures</a> is provided in the <a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/products/StationPlots/readme.txt" rel="nofollow">readme.txt</a> file</li>
+</ul>
+<h2>Quality Assurance</h2>
+<p>GHCNm v4 uses the same set of quality control (QC) algorithms applied to v3 with some additions. The checks and associated flags are shown in Table 1. Further details regarding the quality control checks are available in the version 4 <a href="https://www1.ncdc.noaa.gov/pub/data/ghcn/v4/documentation/CDRP-ATBD-0859%20Rev%201%20GHCN-M%20Mean%20Temperature-v4.pdf" rel="nofollow">Algorithm Theoretical Basis Document</a>.</p>
+<h3 class="expandableHeader">Table 1. Quality Assurance Checks Applied to GHCNm Version 4 Temperatures</h3>
+<div class="expandableContent">
+<table border="1" style="width:725px">
+<thead>
+<tr>
+<th>Data Problem</th>
+<th>Description of Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inter-Station Duplicate Check (E Flag)</td>
+<td>
+<p>Identifies a station&rsquo;s monthly values when they are duplicated in any year of another station&rsquo;s data (annual data must have at least 3 years of data and at least 12 values within 0.015 deg C</p>
+</td>
+</tr>
+<tr>
+<td>Consecutive Month Duplicate Check (W Flag)</td>
+<td>Used to identify duplicate retransmission and mislabeling of previous month&#39;s temperature for current month. Occurs in GTS transmitted CLIMAT bulletins</td>
+</tr>
+<tr>
+<td>Series Duplication (D Flag)</td>
+<td>Identifies duplication of data between years within the same station record</td>
+</tr>
+<tr>
+<td>World Record Extremes Check (R Flag)</td>
+<td>
+<p>Identifies temperatures that fall outside the range of the highest and lowest monthly mean maximum and minimum temperature values</p>
+</td>
+</tr>
+<tr>
+<td>Isolated Value(s) (L Flag)</td>
+<td>Identifies single data months or small clusters of data that are isolated in time. A single datum, or a cluster, of consecutively spaced data (up to three consecutive months) is examined to see if the time period before and after the data (or cluster) contain 18 consecutive months of missing data, or more, both before and after the datum (or cluster)</td>
+</tr>
+<tr>
+<td>Streak Check (K Flag)</td>
+<td>
+<p>Identifies runs of the same value (non-missing) in five or more consecutive months</p>
+</td>
+</tr>
+<tr>
+<td>Climatological Outlier (O Flag)</td>
+<td>Identifies temperatures that exceed their respective climatological bi-weight means for the corresponding station and calendar month by at least five bi-weight standard deviations</td>
+</tr>
+<tr>
+<td>Spatial Inconsistency 1 (S Flag)</td>
+<td>
+<p>Any value found to be between 2.5 and 5.0 bi-weight standard deviations from the bi-weight mean is more closely scrutinized by examining the 5 closest neighbors (not to exceed 500.0 km) and determining their associated distribution of respective z-scores. At least one of the neighbor stations must have a z score with the same sign as the target and its z-score must be greater than or equal to the z&ndash;score listed in column B (below), where column B is expressed as a function of the target z-score ranges (column A)&nbsp; &nbsp;</p>
+<table border="1" style="width:200px">
+<thead>
+<tr>
+<th>A</th>
+<th>B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&nbsp; &nbsp; &nbsp;4.0 - 5.0</td>
+<td>&nbsp; &nbsp; &nbsp;1.9</td>
+</tr>
+<tr>
+<td>&nbsp; &nbsp; &nbsp;3.0 - 4.0</td>
+<td>&nbsp; &nbsp; &nbsp;1.8</td>
+</tr>
+<tr>
+<td>&nbsp; &nbsp; 2.75 - 3.0</td>
+<td>&nbsp; &nbsp; &nbsp;1.7</td>
+</tr>
+<tr>
+<td>&nbsp; &nbsp; 2.50 - 2.75</td>
+<td>&nbsp; &nbsp; &nbsp;1.6</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>Spatial Inconsistency 2 (T Flag)</td>
+<td>This check uses a weighted average of neighboring stations to identify extreme temperatures that are likely erroneous. Z&ndash;scores for the month of interest for the target station are compared with other station z&ndash;scores within 500 km using an inverse distance weighting function. If the absolute difference &gt;= 3.0, then it is flagged</td>
+</tr>
+<tr>
+<td>Erroneous value not detected through automated quality control checks (Z Flag)</td>
+<td>Datum (or data) are flagged after manual investigation determines value(s) to be erroneous</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Temperature Data Homogenization</h2>
+<p>Nearly all weather stations undergo changes in the circumstances under which measurements are taken at some point during their history. For example, thermometers require periodic replacement or recalibration and measurement technology has evolved over time. Temperature recording protocols have also changed at many locations from recording temperatures at fixed hours during the day to once-per-day readings of the 24-hour maximum and minimum. &ldquo;Fixed&rdquo; land stations are sometime relocated and even minor temperature equipment moves can change the microclimate exposure of the instruments. In other cases, the land use or land cover in the vicinity of an observing site can change over time, which can impact the local environment that instruments are sampling even when measurement practice is stable. All of the these different modifications to the circumstances of recording near surface air temperature can cause systematic shifts in temperature readings from a station that are unrelated to any real variation in local weather and climate. Moreover, the magnitude of these shifts (or &ldquo;inhomogeneities&rdquo;) can be large relative to true climate variability. Inhomogeneities can therefore lead to large systematic errors in the computation of climate trends and variability not only for individual station records, but also in spatial averages.</p>
+<div class="hideableContent">
+<p>For this reason, detecting and accounting for artifacts associated with changes in observing practice is an important and necessary endeavor in building climate datasets. In GHCNm v4, shifts in monthly temperature series are detected through automated pairwise comparisons of the station series using the algorithm described in Menne and Williams (2009). This procedure, known as the Pairwise Homogenization Algorithm (PHA), systematically evaluates each time series of monthly average surface air temperature to identify cases in which there is an abrupt shift in one station&rsquo;s temperature series (the &ldquo;target&rdquo; series) relative to many other correlated series from other stations in the region (the &ldquo;reference&rdquo; series). The algorithm seeks to resolve the timing of shifts for all station series before computing an adjustment factor to compensate for any one particular shift. These adjustment factors are based on the average change in the magnitude of monthly temperature differences between the target station series with the apparent shift and the reference series with no apparent concurrent shifts.</p>
+<p>The PHA has undergone extensive evaluation (e.g., Williams et al. 2012) and GHCNm v4 data are provided as both homogenized (adjusted) and unhomogenized (unadjusted). The homogenized data are known by the string &quot;<a href="https://www1.ncdc.noaa.gov/pub/data/ghcn/v4/beta/ghcnm.tavg.latest.qcf.tar.gz" rel="nofollow">qcf</a>&quot; and the unhomogenized data are designated by the string &quot;<a href="www1.ncdc.noaa.gov/pub/data/ghcn/v4/beta/ghcnm.tavg.latest.qcu.tar.gz">qcu</a>&quot;. As described in Menne et al. (2018), the PHA is periodically run as an ensemble to quantify the uncertainty of homogenization. Other components of uncertainty are also evaluated. The combined effect of uncertainties for GHCNm v4 are shown in the figure below.</p>
+<p><img alt="Land Surface Temperature Anomalies" src="/sites/default/files/figure11.png" style="width:480px; height:480px; float:right" /></p>
+<p>&nbsp;</p>
+<p>(Right) Total uncertainty for GHCNm v4 mean annual Global Land Surface Air Temperature anomalies. Darker grays show homogenization uncertainties (parametric and missed breaks) and the lighter grays show anomaly and spatial coverage uncertainties. The uncertainties are displayed as cumulative, so the uncertainty bounds depicted in each lighter shade includes the uncertainty of the darker shades (see Menne et al. 2018 for details).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>References</strong></p>
+<p><em>GHCNm v4</em></p>
+<p>Menne, M. J., C. N. Williams, B.E. Gleason, J. J Rennie, and J. H. Lawrimore, 2018: The Global Historical Climatology Network Monthly Temperature Dataset, Version 4. <em>J. Climate</em>, in press. <a href="https://doi.org/10.1175/JCLI-D-18-0094.1" rel="nofollow">https://doi.org/10.1175/JCLI-D-18-0094.1</a>.</p>
+<p><em>GHCNm v3</em></p>
+<p>Lawrimore, J. H., M. J. Menne, B. E. Gleason, C. N. Williams, D. B. Wuertz, R. S. Vose, and J. Rennie, 2011: An overview of the Global Historical Climatology Network monthly mean temperature data set, version 3, <em>J. Geophys. Res.</em>, <strong>116</strong>, D19121, doi:10.1029/2011JD016187.</p>
+<p><em>GHCNm v2</em></p>
+<p>Peterson, T. C., and R. S. Vose, 1997: An overview of the Global Historical Climatology Network temperature database. <em>Bull. Amer. Meteor. Soc.</em>,<strong>78</strong>, 2837&ndash;2849.</p>
+<p><em>GHCNm v1</em></p>
+<p>Vose, R. S., R. L. Schmoyer, P. M. Steurer, T. C. Peterson, R. Heim, T. R. Karl, and J. Eischeid, 1992: The Global Historical Climatology Network: Long‐term monthly temperature, precipitation, sea level pressure, and station pressure data, ORNL/CDIAC‐53, 325 pp., Carbon Dioxide Inf. Anal. Cent., Oak Ridge, Tenn.</p>
+<p><em>GHCNd</em></p>
+<p>Menne, M. J., I. Durre, B. G. Gleason, T. Houston, and R. S. Vose, 2012: An overview of the Global Historical Climatology Network Daily dataset. <em>J. Atmos. Oceanic Technol.</em>, <strong>29</strong>, 897&ndash;910, doi:10.1175/JTECH-D-11-00103.1.</p>
+<p><em>Pairwise Homogenization Algorithm (PHA)</em></p>
+<p>Menne, M. J., and C. N. Williams, 2009: Homogenization of temperature series via pairwise comparisons, <em>J. Climate</em>, <strong>22</strong>, 1700&ndash;1717, doi:10.1175/2008JCLI2263.1.</p>
+<p>Williams, C. N., M. J. Menne, and P. W. Thorne, 2012: Benchmarking the performance of pairwise homogenization of surface temperatures in the United States,<em> J. Geophys. Res.</em>, <strong>117</strong>, D05116, doi:10.1029/2011JD016761.</p>
+<p><em>ISTI Databank</em></p>
+<p>Rennie, J. J., Lawrimore, J. H., Gleason, B. E., Thorne, P. W., Morice, C. P., Menne, M. J., Williams, C. N., de Almeida, W. G., Christy, J. R., Flannery, M., Ishihara, M., Kamiguchi, K., Klein-Tank, A. M. G., Mhanda, A., Lister, D. H., Razuvaev, V., Renom, M., Rusticucci, M., Tandy, J., Worley, S. J., Venema, V., Angel, W., Brunet, M., Dattore, B., Diamond, H., Lazzara, M. A., Le Blancq, F., Luterbacher, J., M&auml;chel, H., Revadekar, J., Vose, R. S., and Yin, X. (2014), The international surface temperature initiative global land surface databank: monthly temperature data release description and methods. <em>Geoscience Data Journal</em>, <strong>1</strong>, 75&ndash;102. doi: 10.1002/gdj3.8.</p>
+</div>
+</div>
+      </div>
+</div>
+  </div>
+
+  
+  
+</div>
+	</div>
+</div>
+	</div>
+
+                                                        
+
+						</div>
+
+                                                                                                <div class="col-2-left">
+                                                        <div class="leftNavLink">
+
+                                                                <a id="sidebar-links"></a>
+
+									                                                                	<div class="region region-sidebar-first">
+		<div id="block-menu-block-3" class="block block-menu-block">
+
+			
+	<div class="content">
+		<div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1535 dhtml-menu" id="dhtml_menu-1535"><a href="/data-access/quick-links">Quick Links</a></li>
+<li class="expanded active-trail menu-mlid-582 dhtml-menu" id="dhtml_menu-582"><a href="/data-access/land-based-station-data" class="active-trail">Land-Based Station</a><ul class="menu"><li class="first expanded active-trail menu-mlid-1490 dhtml-menu" id="dhtml_menu-1490"><a href="/data-access/land-based-station-data/land-based-datasets" class="active-trail">Datasets</a><ul class="menu"><li class="first leaf menu-mlid-1371 dhtml-menu" id="dhtml_menu-1371"><a href="/data-access/land-based-station-data/land-based-datasets/quality-controlled-local-climatological-data-qclcd">LCD</a></li>
+<li class="leaf menu-mlid-583 dhtml-menu" id="dhtml_menu-583"><a href="/data-access/land-based-station-data/land-based-datasets/cooperative-observer-network-coop" title="Cooperative Observer Network (COOP)">COOP</a></li>
+<li class="collapsed menu-mlid-593 dhtml-menu collapsed start-collapsed" id="dhtml_menu-593"><a href="/data-access/land-based-station-data/land-based-datasets/climate-normals">Climate Normals</a><ul class="menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-1854"><a href="/data-access/land-based-station-data/land-based-datasets/climate-normals/1981-2010-normals-data">1981-2010 U.S. Climate Normals</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-589 dhtml-menu collapsed start-collapsed" id="dhtml_menu-589"><a href="/data-access/land-based-station-data/land-based-datasets/us-historical-climatology-network-ushcn" class="menu-node-unpublished">USHCN</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2002"><a href="/ushcn/introduction" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Introduction</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2629"><a href="/ushcn/station-siting" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Station Siting and U.S. Surface Temperature Trends (USHCN)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2630"><a href="/ushcn/data-access" class="menu-node-unpublished">Data Access (USHCN)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2627"><a href="/ushcn/pairwise-homogeneity-adjustment-software" class="menu-node-unpublished menu-node-unpublished">Pairwise Homogeneity Adjustment Software (USHCN)</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2628"><a href="/ushcn/references" class="menu-node-unpublished menu-node-unpublished">References (USHCN)</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-588 dhtml-menu" id="dhtml_menu-588"><a href="/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn" class="active-trail">GHCN</a><ul class="menu"><li class="first leaf menu-mlid-2536 dhtml-menu" id="dhtml_menu-2536"><a href="/ghcn/comparative-climatic-data" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Comparative Climatic Data</a></li>
+<li class="leaf menu-mlid-2673 dhtml-menu" id="dhtml_menu-2673"><a href="/ghcn-daily-description" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished">Global Historical Climate Network Daily - Description</a></li>
+<li class="leaf menu-mlid-2593 dhtml-menu" id="dhtml_menu-2593"><a href="/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-monthly-version-2" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Global Historical Climatology Network Monthly - Version 2</a></li>
+<li class="leaf menu-mlid-2594 dhtml-menu" id="dhtml_menu-2594"><a href="/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-monthly-version-3" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Global Historical Climatology Network Monthly - Version 3</a></li>
+<li class="last leaf active-trail active menu-mlid-2600 dhtml-menu" id="dhtml_menu-2600"><a href="/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-monthly-version-4" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished active-trail active">Global Historical Climatology Network Monthly - Version 4</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1549 dhtml-menu" id="dhtml_menu-1549"><a href="http://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD&amp;countryabbv=&amp;georegionabbv=" title="">GSOD</a></li>
+<li class="leaf menu-mlid-1370 dhtml-menu" id="dhtml_menu-1370"><a href="/data-access/land-based-station-data/land-based-datasets/us-climate-reference-network-uscrn">USCRN</a></li>
+<li class="leaf menu-mlid-587 dhtml-menu" id="dhtml_menu-587"><a href="/gosic">GOSIC</a></li>
+<li class="leaf menu-mlid-1372 dhtml-menu" id="dhtml_menu-1372"><a href="/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos">ASOS</a></li>
+<li class="leaf menu-mlid-1373 dhtml-menu" id="dhtml_menu-1373"><a href="/data-access/land-based-station-data/land-based-datasets/automated-weather-observing-system-awos">AWOS</a></li>
+<li class="leaf menu-mlid-1503 dhtml-menu" id="dhtml_menu-1503"><a href="/data-access/land-based-station-data/land-based-datasets/solar-radiation">Solar Radiation</a></li>
+<li class="leaf menu-mlid-1749 dhtml-menu" id="dhtml_menu-1749"><a href="/data-access/land-based-station-data/land-based-datasets/world-war-ii-era-data">World War II Era Data</a></li>
+<li class="last leaf menu-mlid-1977 dhtml-menu" id="dhtml_menu-1977"><a href="/isd">Integrated Surface Database (ISD)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1369 dhtml-menu" id="dhtml_menu-1369"><a href="http://www.ncdc.noaa.gov/cdo-web/datatools/findstation" title="">Find a Station</a></li>
+<li class="leaf menu-mlid-1385 dhtml-menu" id="dhtml_menu-1385"><a href="/data-access/land-based-station-data/station-metadata">Station Metadata</a></li>
+<li class="leaf menu-mlid-1148 dhtml-menu" id="dhtml_menu-1148"><a href="http://www.ncdc.noaa.gov/cdo-web/" title="">Climate Data Online</a></li>
+<li class="last leaf menu-mlid-1502 dhtml-menu" id="dhtml_menu-1502"><a href="/data-access/land-based-station-data/data-publications">Data Publications</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-594 dhtml-menu collapsed start-collapsed" id="dhtml_menu-594"><a href="/data-access/satellite-data">Satellite</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2834"><a href="/data-access/satellite-data/satellite-data-noaa-big-data-project" class="menu-node-unpublished">GOES-R Series Satellite Data in the NOAA Big Data Project</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1855"><a href="https://www.ncdc.noaa.gov/cdr" title="">CDR Program</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1409"><a href="/data-access/satellite-data/satellite-data-access-datasets">Datasets</a><ul class="menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-1978"><a href="http://www.ncdc.noaa.gov/data-access/satellite-data/satellite-data-access-datasets/c-rdr-viirs" title="">VIRS C-RDR</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1410"><a href="/data-access/satellite-data/satellite-data-access-sorted-satellite-instrument">Sorted by Satellite/Instrument</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-809"><a href="/data-access/satellite-data/satellite-imagery">Satellite Imagery</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1411"><a href="/data-access/satellite-data/satellite-datasets-development">Datasets in Development</a></li>
+<li class="last expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-2591"><a href="/data-access/satellite-data/goes-r-series-satellites" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">GOES-R Series Satellites</a><ul class="menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-2687"><a href="/goes-r-series-satellites/goes-r-series-frequently-asked-questions" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">GOES-R Series Frequently Asked Questions</a></li>
+</ul></li>
+</ul></li>
+<li class="collapsed menu-mlid-604 dhtml-menu collapsed start-collapsed" id="dhtml_menu-604"><a href="/data-access/radar-data">Radar</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2458"><a href="/data-access/radar-data/noaa-big-data-project" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Radar Data in the NOAA Big Data Project</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1948"><a href="/data-access/radar-data/radar-display-tools">Display and Conversion Tools</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1962"><a href="/data-access/radar-data/radar-decoding">Decoding Utilities and Examples</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1949"><a href="/data-access/radar-data/radar-map-tool">Interactive Map Tool</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1888"><a href="/data-access/radar-data/nexrad">NEXRAD</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1951"><a href="/data-access/radar-data/nexrad-products">NEXRAD Radar Products</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1889"><a href="/data-access/radar-data/tdwr">Terminal Doppler Weather Radar</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1887"><a href="/data-access/radar-data/tdwr/tdwr-products">Terminal Doppler Weather Radar Products</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-606 dhtml-menu collapsed start-collapsed" id="dhtml_menu-606"><a href="/data-access/model-data">Model</a><ul class="menu"><li class="first expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1547"><a href="/data-access/model-data/model-datasets">Datasets</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2465"><a href="/data-access/model-data/model-datasets/nrl-aec-gomex" title="Naval Research Laboratory Gulf of Mexico Adaptive Ecosystem Climatology">AEC</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-611"><a href="/data-access/model-data/model-datasets/climate-forecast-system-version2-cfsv2" title="Climate Forecast System Version 2">CFS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1417"><a href="/data-access/model-data/model-datasets/cm2-global-coupled-climate-models-cm2x" title="CM2 Global Coupled Climate Models">CM2.X</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1548"><a href="http://cmip-pcmdi.llnl.gov/cmip5/" title="Coupled Model Intercomparison Project Phase 5">CMIP5</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1491"><a href="/data-access/model-data/model-datasets/global-data-assimilation-system-gdas" title="Global Data Assimilation System">GDAS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-607"><a href="/data-access/model-data/model-datasets/global-ensemble-forecast-system-gefs" title="Global Ensemble Forecast System">GEFS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-608"><a href="/data-access/model-data/model-datasets/global-forcast-system-gfs" title="Global Forecast System">GFS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2462"><a href="/data-access/model-data/model-datasets/navoceano-hycom-glb" title="Naval Oceanographic Office Global Hybrid Coordinate Ocean Model">HYCOM</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-609"><a href="/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam" title="North American Mesoscale Forecast System">NAM</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-612"><a href="/data-access/model-data/model-datasets/north-american-regional-reanalysis-narr" title="North American Regional Reanalysis">NARR</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2463"><a href="/data-access/model-data/model-datasets/navoceano-ncom-glb" title="Naval Oceanographic Office Global Navy Coastal Ocean Model">NCOM</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2464"><a href="/data-access/model-data/model-datasets/navoceano-ncom-reg" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished" title="Naval Oceanographic Office Regional Navy Coastal Ocean Model">NCOM-Regional</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1684"><a href="/data-access/model-data/model-datasets/national-digital-forecast-database-ndfd" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" title="National Digital Forecast Database">NDFD</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1685"><a href="/data-access/model-data/model-datasets/national-digital-guidance-database-ndgd" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" title="National Digital Guidance Database">NDGD</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2460"><a href="/data-access/model-data/model-datasets/nested-grid-model" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" title="Nested Grid Model">NGM</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2747"><a href="/data-access/model-data/model-datasets/north-american-multi-model-ensemble">NMME</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1414"><a href="/data-access/model-data/model-datasets/reanalysis-1-reanalysis-2" title="Reanalysis-1/Reanalysis-2">R1 / R2</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1419"><a href="/data-access/model-data/model-datasets/rapid-refresh-rap" title="Rapid Refresh">RAP</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2466"><a href="/data-access/model-data/model-datasets/ncep-rtofs-atlantic" title="National Centers for Environmental Prediction Real Time Ocean Forecast System">RTOFS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1416"><a href="/data-access/model-data/model-datasets/service-records-retention-system-srrs" title="Service Records Retention System">SRRS</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2579"><a href="/data-access/model-data/model-datasets/navy-operational-global-atmospheric-prediction-system" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">NOGAPS</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2860"><a href="/climate-model-data-noaa-big-data-project" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Climate Model Data in the NOAA Big Data Project</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2459"><a href="/data-access/model-data/model-datasets/ocean-models" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Ocean Models</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1434"><a href="/data-access/model-data/model-datasets/reanalysis">Reanalysis</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1435"><a href="/data-access/model-data/model-datasets/numerical-weather-prediction">Numerical Weather Prediction</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1436"><a href="/data-access/model-data/model-datasets/climate-prediction">Climate Prediction</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1437"><a href="/data-access/model-data/model-datasets/derived-other-model-data">Derived / Other Model Data</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2018"><a href="/nomads" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">NOMADS</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2461"><a href="/data-access/model-data/ocean-nomads">Ocean NOMADS</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-613 dhtml-menu collapsed start-collapsed" id="dhtml_menu-613"><a href="/data-access/weather-balloon-data">Weather Balloon</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-614"><a href="/data-access/weather-balloon/integrated-global-radiosonde-archive">IGRA</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1917"><a href="/data-access/weather-balloon/radiosonde-atmospheric-temperature-products-accessing-climate">RATPAC</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1952"><a href="/data-access/weather-balloon/radiosonde-atmospheric-temperature-products-accessing-climate/ratpac-a">RATPAC-A</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1953"><a href="/data-access/weather-balloon/radiosonde-atmospheric-temperature-products-accessing-climate/ratpac-b">RATPAC-B</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-616 dhtml-menu collapsed start-collapsed" id="dhtml_menu-616"><a href="/data-access/marineocean-data">Marine / Ocean</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1403"><a href="https://www.ncdc.noaa.gov/cdo-web/datatools/marine" title="">Global Marine Data</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1405"><a href="http://icoads.noaa.gov/index.shtml" title="">ICOADS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1504"><a href="http://gis.ncdc.noaa.gov/map/viewer/#app=cdo&amp;cfg=marine&amp;theme=marine" title="">Marine Data Map Access</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2744"><a href="/data-access/marineocean-data/extended-reconstructed-sea-surface-temperature-ersst" title="">Extended Reconstructed Sea Surface Temperature (ERSST)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2008"><a href="/data-access/marineocean-data/noaa-global-surface-temperature-noaaglobaltemp" class="menu-node-unpublished menu-node-unpublished">NOAA Merged Land Ocean Global Surface Temperature Analysis (NOAAGlobalTemp)</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1954"><a href="/data-access/marineocean-data/surface-flux-analysis">Surface Flux Analysis (SURFA)</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1771"><a href="/data-access/marineocean-data/vosclim">Voluntary Observing Ship Climate (VOSClim) Fleet</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1772"><a href="/data-access/marineocean-data/vosclim/data-management-and-access">Data Management and Access</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1773"><a href="/data-access/marineocean-data/vosclim/ship-metadata">Ship Metadata</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1979"><a href="/data-access/marineocean-data/blended-global/blended-sea-winds">Blended Sea Winds</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1406"><a href="/oisst" title="OISST">IOSST</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-617 dhtml-menu collapsed start-collapsed" id="dhtml_menu-617"><a href="/data-access/paleoclimatology-data">Paleoclimatology</a><ul class="menu"><li class="first expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1492"><a href="/data-access/paleoclimatology-data/datasets">Datasets</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1716"><a href="/data-access/paleoclimatology-data/datasets/borehole">Borehole</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1733"><a href="/data-access/paleoclimatology-data/datasets/climate-forcing">Climate Forcing</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1752"><a href="/data-access/paleoclimatology-data/datasets/climate-reconstruction">Climate Reconstruction</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1712"><a href="/data-access/paleoclimatology-data/datasets/coral-sclerosponge">Coral and Sclerosponge</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1718"><a href="/data-access/paleoclimatology-data/datasets/fauna">Fauna</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1721"><a href="/data-access/paleoclimatology-data/datasets/fire-history">Fire History</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1726"><a href="/data-access/paleoclimatology-data/datasets/historical">Historical</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1729"><a href="/data-access/paleoclimatology-data/datasets/ice-core">Ice Core</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1737"><a href="/data-access/paleoclimatology-data/datasets/insect">Insect</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1714"><a href="/data-access/paleoclimatology-data/datasets/lake-level-reconstruction">Lake Level Reconstruction</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1713"><a href="/data-access/paleoclimatology-data/datasets/loess-eolian-dust">Loess and Eolian Dust</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1715"><a href="/data-access/paleoclimatology-data/datasets/paleoclimatology-modeling">Paleoclimate Modeling</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1759"><a href="/data-access/paleoclimatology-data/datasets/lake">Lake</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1710"><a href="/data-access/paleoclimatology-data/datasets/paleoceanography">Paleoceanography</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1757"><a href="/data-access/paleoclimatology-data/datasets/plant-macrofossil">Plant Macrofossil</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1758"><a href="/data-access/paleoclimatology-data/datasets/pollen">Pollen</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1751"><a href="/data-access/paleoclimatology-data/datasets/speleothem">Speleothem</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1730"><a href="/data-access/paleoclimatology-data/datasets/tree-ring">Tree Ring</a><ul class="menu"><li class="first last leaf dhtml-menu" id="dhtml_menu-1856"><a href="/data-access/paleoclimatology-data/datasets/tree-ring/drought-variability">Drought Variability</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1743"><a href="/data-access/paleoclimatology-data/datasets/other-collections">Other Collections</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2622"><a href="https://www.ncdc.noaa.gov/paleo-search/reports/all?dataTypeId=59&amp;search=true" title="">Software</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1421"><a href="https://www.ncdc.noaa.gov/paleo-search/" title="">Search</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1744"><a href="/data-access/paleoclimatology-data/products">Products</a></li>
+<li class="expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1745"><a href="/data-access/paleoclimatology-data/perspectives">Perspectives</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-2021"><a href="/global-warming">A Paleo Perspective on Global Warming</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2537"><a href="/abrupt-climate-change" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Abrupt Climate Change: A Paleo Perspective</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2541"><a href="http://treeflow.info/perspective" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" title="">Colorado River Stream Flow</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1719"><a href="/data-access/paleoclimatology-data/contributing">Contributing Data</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-2817"><a href="/data-access/paleoclimatology-data/past-thesaurus" class="menu-node-unpublished">PaST Thesaurus</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1746"><a href="/data-access/paleoclimatology-data/education-outreach">Education and Outreach</a></li>
+<li class="last expanded dhtml-menu collapsed start-collapsed" id="dhtml_menu-1747"><a href="/data-access/paleoclimatology-data/about-the-paleoclimatology-program">About the Program</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1774"><a href="/data-access/paleoclimatology-data/about-the-paleoclimatology-program/staff">Program Staff</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-1849"><a href="/data-access/paleoclimatology-data/about-the-paleoclimatology-program/visitor-program">Visitor Program</a></li>
+</ul></li>
+</ul></li>
+<li class="collapsed menu-mlid-1501 dhtml-menu collapsed start-collapsed" id="dhtml_menu-1501"><a href="/data-access/severe-weather">Severe Weather</a><ul class="menu"><li class="first leaf dhtml-menu" id="dhtml_menu-1635"><a href="http://www.ncdc.noaa.gov/stormevents/" title="">Storm Events Database</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1637"><a href="http://www.ncdc.noaa.gov/oa/ibtracs/" title="">IBTrACS</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-1634"><a href="/data-access/severe-weather/lightning-products-and-services">Lightning Products and Services</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-2868"><a href="/severe-weather/severe-weather-data-inventory">Severe Weather Data Inventory</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-1930 dhtml-menu" id="dhtml_menu-1930"><a href="/data-access/marineocean-data/blended-global" class="menu-node-unpublished">Blended &amp; Global</a></li>
+</ul></div>
+	</div>
+</div>
+	</div>
+								
+                                                        </div>
+                                                </div>
+
+					</div>				</div>
+			</div>		</div>
+	</div>
+		<div id="footer" class="clearfix">
+				<div class="subfooter">
+	<a href="https://www.commerce.gov"><img alt="Click to visit the U.S. Department of Commerce website" src="/sites/all/themes/custom/ncdc/images/logos/logo_doc_dark.png" /></a>
+	<a href="https://www.usa.gov/"><img alt="Click to visit USA.gov" src="/sites/all/themes/custom/ncdc/images/logos/logo_usagov.png" /></a>
+	<a href="https://www.ready.gov"><img alt="Click to visit Ready.gov" src="/sites/all/themes/custom/ncdc/images/logos/logo_ready.png" /></a>
+</div>
+		<div class="menu-link">
+				<div class="region region-footer-menu-1">
+		<div id="block-menu-menu-footer-support" class="block block-menu">
+
+			
+	<div class="content">
+		<ul class="menu"><li class="first leaf"><a href="/about" title="About">About</a></li>
+<li class="leaf"><a href="http://www.ncdc.noaa.gov/contact" title="Contact Us">Contact</a></li>
+<li class="leaf"><a href="/about/employment" title="">Employment</a></li>
+<li class="last leaf"><a href="/sitemap" title="Site Map of the NCDC Homepage and Support Pages">Site Map</a></li>
+</ul>	</div>
+</div>
+<div id="block-block-25" class="block block-block">
+
+			
+	<div class="content">
+		<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+html,body {background:url('/sites/all/themes/custom/ncdc/images/bg/bg_shade.jpg') repeat-x top left #49BCEB;}
+#background {background:url('/sites/all/themes/custom/ncdc/images/bg/bg_swirl.jpg') no-repeat top center transparent}
+#siteNotice {background:url('/sites/all/themes/custom/ncdc/images/icons/icon_warning.png') 10px center no-repeat #c00;}
+.external {background:url('/sites/all/themes/custom/ncdc/images/icons/external.png') right center no-repeat transparent;}
+a[href$=".pdf"]:after {content:url('/sites/all/themes/custom/ncdc/images/icons/pdf.png');}
+a[href$=".doc"]:after,
+a[href$=".docx"]:after {content:url('/sites/all/themes/custom/ncdc/images/icons/doc.png');}
+a[href$=".txt"]:after,
+a[href$=".ascii"]:after,
+a[href$=".asc"]:after {content:url('/sites/all/themes/custom/ncdc/images/icons/txt.png');}
+a[href$=".xls"]:after,
+a[href$=".xlsx"]:after,
+a[href$=".dat"]:after,
+a[href$=".dly"]:after,
+a[href$=".csv"]:after {content:url('/sites/all/themes/custom/ncdc/images/icons/xls.png');}
+#footer {background:url('/sites/all/themes/custom/ncdc/images/bg/footer_shading.png') left top repeat-x #333;}
+#footer .menu-link .region .content ul li,
+#footer .menu-link .region .content ul li.leaf {list-style-image:url('/sites/all/themes/custom/ncdc/images/bullet_red.png');}
+h2.expRegionHeader {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_horiz_collapsed.png') left center no-repeat transparent;}
+h2.expRegionHeader.expanded {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_horiz_expanded.png') left center no-repeat transparent;} h3.expandableHeader {background:url('/sites/all/themes/custom/ncdc/images/icons/plus.gif') left center no-repeat transparent;} h3.expanded {background:url('/sites/all/themes/custom/ncdc/images/icons/minus.gif') left center no-repeat transparent} h2.expRegionHeader {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_horiz_collapsed.png') left center no-repeat transparent;}
+h2.expRegionHeader.expanded {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_horiz_expanded.png') left center no-repeat transparent;}
+th {background:url('/sites/all/themes/custom/ncdc/images/bg/bg_header_gray.png') repeat-x left -1px #444;}
+
+.menu-block-wrapper ul.menu li.dhtml-folder {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_collapsed.png') 98.5% 10px no-repeat transparent}
+.col-2-left .block-menu ul.menu li.expanded,
+.menu-block-wrapper ul.menu li.expanded {background:url('/sites/all/themes/custom/ncdc/images/icons/menu_expanded.png') 98.5% 10px no-repeat transparent}
+/* Frontpage */
+#frontpageMainSlider .item-list .carousel-wrap ul li .carousel-view-block {background:url('/sites/all/themes/custom/ncdc/images/bg/bg_80_000000.png') top left repeat transparent;}
+
+#frontpageMainSlider input.carousel-previous {background:url('/sites/all/themes/custom/ncdc/images/arrow-left.png') center center no-repeat transparent;}
+
+#frontpageMainSlider input.carousel-next {background:url('/sites/all/themes/custom/ncdc/images/arrow-right.png') center center no-repeat transparent;}
+
+
+
+/*--><!]]>*/
+</style>	</div>
+</div>
+<div id="block-block-28" class="block block-block">
+
+			
+	<div class="content">
+		<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#noaa-header .inset .title span {background: url('/sites/all/themes/custom/ncdc/images/logos/logo_ncei.png') no-repeat scroll left top #fff;}
+#headDOC {background: url('/sites/all/themes/custom/ncdc/images/logos/logo_doc.png') 50% 50% no-repeat transparent;}
+
+/*--><!]]>*/
+</style>	</div>
+</div>
+	</div>
+		</div>
+
+		<div class="menu-link">
+				<div class="region region-footer-menu-2">
+		<div id="block-menu-menu-footer-menu-2" class="block block-menu">
+
+			
+	<div class="content">
+		<ul class="menu"><li class="first leaf"><a href="/about-ncdc/privacy" title="NOAA&#039;s Privacy Policy">Privacy</a></li>
+<li class="leaf"><a href="https://www.noaa.gov/foia-freedom-of-information-act" title="Freedom of Information Act">FOIA</a></li>
+<li class="leaf"><a href="http://www.cio.noaa.gov/services_programs/info_quality.html" title="Information Quality">Information Quality</a></li>
+<li class="last leaf"><a href="http://www.noaa.gov/disclaimer.html" title="Disclaimer">Disclaimer</a></li>
+</ul>	</div>
+</div>
+	</div>
+		</div>
+
+		<div class="menu-link clearfix last">
+				<div class="region region-footer-menu-3">
+		<div id="block-menu-menu-footer-menu-3" class="block block-menu">
+
+			
+	<div class="content">
+		<ul class="menu"><li class="first leaf"><a href="http://www.ncdc.noaa.gov/survey" title="Take Our Site Survey">Take Our Survey</a></li>
+<li class="leaf"><a href="http://www.commerce.gov/" title="United States Department of Commerce">Department of Commerce</a></li>
+<li class="leaf"><a href="http://www.noaa.gov" title="NOAA">NOAA</a></li>
+<li class="last leaf"><a href="http://www.nesdis.noaa.gov/" title="NESDIS">NESDIS</a></li>
+</ul>	</div>
+</div>
+	</div>
+		</div>
+
+		<div class="clearfix"></div>
+
+		<div id="footerCrumbs" class="clearfix">
+			<a href="//www.commerce.gov/" target="_blank">Department of Commerce</a>&nbsp;&gt;&nbsp;<a href="http://www.noaa.gov" target="_blank">NOAA</a>&nbsp;&gt;&nbsp;<a href="//www.nesdis.noaa.gov/" target="_blank">NESDIS</a>&nbsp;&gt;&nbsp;<a href="//www.ncdc.noaa.gov" target="_blank">NCEI</a>
+		</div>
+
+	</div><!-- /#footer -->
+
+</div><!-- /#page-wrapper -->
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-42795060-3', 'ncdc.noaa.gov');
+	  ga('set', 'anonymizeIp', true);
+	  ga('send', 'pageview');
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ncdc.noaa.gov/sites/all/modules/custom/ncdc_google_analytics/ncdc_google_analytics_events.js?qmlw1e"></script>
+</div>
+
+<script id="_fed_an_ua_tag" type="text/javascript" src="/scripts/federated-analytics.js?agency=DOC%26subagency=NOAA"></script></body>
+</html>
